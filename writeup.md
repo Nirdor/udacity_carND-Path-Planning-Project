@@ -66,4 +66,4 @@ My planner can change the lane smoothly if it thinks that an other lane will be 
 
 #### There is a reflection on how to generate paths.
 
-see (Model Documentation.md)
+see [Model Documentation.md](Model Documentation.md)
